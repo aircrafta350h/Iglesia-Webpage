@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Google Fonts are loaded via layout.tsx */
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-on-surface font-body antialiased;
+  }
+}
+
+@layer utilities {
+  /* Minimal separation shadow — Light Grey tinted, no heavy drop shadows */
+  .ambient-shadow {
+    box-shadow: 0 0 0 1px #dee1e5, 0 4px 12px rgba(0, 0, 0, 0.04);
+  }
+
+  /* Hero gradient: Teal → Light Grey */
+  .hero-gradient {
+    background: linear-gradient(45deg, #004154 0%, #dee1e5 100%);
+  }
+}
+
+/* Hide scrollbar — used in CollectionCarousel horizontal scroll */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* CollectionView — tarjeta y panel entran al cambiar el item activo */
+@keyframes collection-enter {
+  from {
+    opacity: 0;
+    transform: translateX(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.collection-enter {
+  animation: collection-enter 220ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+/* Article body — applied to the prose-custom wrapper in BibliotecaContenido */
+.prose-custom p {
+  margin-bottom: 2rem;
+  line-height: 1.8;
+  color: #1c1c1c;
+  font-size: 1.125rem;
+}
+
+/* Material Symbols Outlined */
+.material-symbols-outlined {
+  font-family: 'Material Symbols Outlined', sans-serif;
+  font-variation-settings: 'FILL' 0, 'wght' 300, 'GRAD' 0, 'opsz' 24;
+  font-style: normal;
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+  user-select: none;
+}
