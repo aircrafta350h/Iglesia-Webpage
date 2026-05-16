@@ -20,7 +20,7 @@ export default function HeroNosotros() {
         <div className="col-span-12 md:col-start-7 md:col-span-6 mt-8 md:mt-24">
           <p className="font-body text-xl md:text-2xl text-on-surface-variant leading-relaxed font-light">
             Creemos que la fe es un camino de contemplación y comunidad.
-            Sanctuary nace como un espacio donde la modernidad se encuentra con
+            1ra Iglesia Apostolica de Tonalá nace como un espacio donde la modernidad se encuentra con
             lo eterno, invitándote a descubrir la paz que sobrepasa todo
             entendimiento.
           </p>

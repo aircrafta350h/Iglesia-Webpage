@@ -21,7 +21,7 @@ export async function generateMetadata({
   if (!collection) return { title: 'No encontrado' };
 
   return {
-    title: `${collection.name} — Biblioteca Sanctuary`,
+    title: `${collection.name} — Biblioteca 1ra Iglesia Apostolica de Tonalá`,
     description: collection.description,
   };
 }

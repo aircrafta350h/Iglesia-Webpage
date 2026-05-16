@@ -85,10 +85,10 @@ export default function ContactSection() {
                 </span>
               </div>
               <a
-                href="mailto:ayuda@sanctuary.church"
+                href="mailto:ayuda@1ra Iglesia Apostolica de Tonalá.church"
                 className="font-medium hover:text-primary transition-colors"
               >
-                ayuda@sanctuary.church
+                ayuda@1ra Iglesia Apostolica de Tonalá.church
               </a>
             </div>
 

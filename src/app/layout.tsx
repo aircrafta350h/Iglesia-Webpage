@@ -3,8 +3,8 @@ import './globals.css';
 
 export const metadata: Metadata = {
   title: {
-    template: '%s | Sanctuary',
-    default: 'Sanctuary',
+    template: '%s | 1ra Iglesia Apostolica de Tonalá',
+    default: '1ra Iglesia Apostolica de Tonalá',
   },
   description: 'Un espacio para caminar juntos.',
 };

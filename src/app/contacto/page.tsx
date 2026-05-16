@@ -5,7 +5,7 @@ import Footer from '@/components/Footer';
 import PageBuilder from '@/components/layout/PageBuilder';
 
 export const metadata: Metadata = {
-  title: 'Contacto | Sanctuary',
+  title: 'Contacto | 1ra Iglesia Apostolica de Tonalá',
   description:
     'Estamos aquí para escuchar y caminar contigo. Escríbenos o visítanos — somos una comunidad abierta.',
 };

@@ -15,7 +15,7 @@ const TIMELINE: TimelineEntry[] = [
   {
     year: '2015',
     title: '2015: La Semilla',
-    body: 'Sanctuary se fundó como un colectivo de estudio bíblico. Lo que empezó como conversaciones informales pronto se transformó en una comunidad que anhelaba algo más profundo.',
+    body: '1ra Iglesia Apostolica de Tonalá se fundó como un colectivo de estudio bíblico. Lo que empezó como conversaciones informales pronto se transformó en una comunidad que anhelaba algo más profundo.',
     dotOpacity: 'bg-primary',
   },
   {
@@ -27,7 +27,7 @@ const TIMELINE: TimelineEntry[] = [
   {
     year: 'hoy',
     title: 'Hoy: Una Familia Global',
-    body: 'Con miles de personas conectadas física y digitalmente, Sanctuary continúa explorando cómo la gracia de Dios puede iluminar cada rincón de la vida contemporánea.',
+    body: 'Con miles de personas conectadas física y digitalmente, 1ra Iglesia Apostolica de Tonalá continúa explorando cómo la gracia de Dios puede iluminar cada rincón de la vida contemporánea.',
     dotOpacity: 'bg-primary/20',
     image: {
       src: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDAUaYQj-gGQW18Jh38-O_cQIcIXQpeZm05wzNqirzGuK3vgXId8fzXM2H7QJ-z6yMqqvz62EnAe2NrInQBibfppIVM0BJmrBLhva_ecRt6MEfQK4Bvx3dXtOrR6pCPTOs2TxMx1141hoa-OjXTRfoZW59FXAWk22q9X9ybtu4MbO8U5m1c9y3-wiIpyC_8pZQnE-0IdwF_6vNgXvJAytRY-L2ynvxxkdZgw_FVemu0opvNV8Yr60LN6ZP4MZa60LK3nj0wQqa_5sU',

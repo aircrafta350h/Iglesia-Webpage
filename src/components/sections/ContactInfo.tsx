@@ -22,7 +22,7 @@ const INFO_ITEMS: InfoItem[] = [
     iconBg: 'bg-secondary-container',
     iconColor: 'text-on-secondary-container',
     title: 'Escríbenos',
-    lines: ['hola@sanctuarychurch.org', 'ayuda@sanctuarychurch.org'],
+    lines: ['hola@1ra Iglesia Apostolica de Tonaláchurch.org', 'ayuda@1ra Iglesia Apostolica de Tonaláchurch.org'],
   },
   {
     icon: 'schedule',

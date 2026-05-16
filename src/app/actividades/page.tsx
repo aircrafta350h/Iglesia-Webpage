@@ -5,7 +5,7 @@ import Footer from '@/components/Footer';
 import PageBuilder from '@/components/layout/PageBuilder';
 
 export const metadata: Metadata = {
-  title: 'Actividades | Sanctuary',
+  title: 'Actividades | 1ra Iglesia Apostolica de Tonalá',
   description:
     'Nuestra agenda está diseñada para ofrecer refugio, crecimiento espiritual y comunidad. Encuentra tu lugar en nuestras reuniones semanales.',
 };

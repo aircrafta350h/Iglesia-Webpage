@@ -51,7 +51,7 @@ export const MEDIA_CARDS: MediaCard[] = [
     subtitle: '248 Episodios • Audio y Video',
     image: {
       src: '/img/biblioteca-sermones.avif',
-      alt: 'Colección de sermones — biblioteca Sanctuary',
+      alt: 'Colección de sermones — biblioteca 1ra Iglesia Apostolica de Tonalá',
     },
   },
   {
@@ -60,7 +60,7 @@ export const MEDIA_CARDS: MediaCard[] = [
     subtitle: 'Lecturas de 15 minutos',
     image: {
       src: '/img/biblioteca-ensayos.avif',
-      alt: 'Ensayos teológicos — biblioteca Sanctuary',
+      alt: 'Ensayos teológicos — biblioteca 1ra Iglesia Apostolica de Tonalá',
     },
   },
   {
@@ -69,7 +69,7 @@ export const MEDIA_CARDS: MediaCard[] = [
     subtitle: 'Material de estudio para grupos',
     image: {
       src: '/img/biblioteca-talleres.avif',
-      alt: 'Talleres prácticos — biblioteca Sanctuary',
+      alt: 'Talleres prácticos — biblioteca 1ra Iglesia Apostolica de Tonalá',
     },
   },
 ];

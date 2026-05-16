@@ -7,7 +7,7 @@ import PageBuilder from '@/components/layout/PageBuilder';
 export const metadata: Metadata = {
   title: 'Nosotros',
   description:
-    'Conoce nuestra identidad, misión, visión y la historia de Sanctuary — un refugio para el alma.',
+    'Conoce nuestra identidad, misión, visión y la historia de 1ra Iglesia Apostolica de Tonalá — un refugio para el alma.',
 };
 
 const SECTIONS: SectionConfig[] = [

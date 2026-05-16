@@ -35,7 +35,7 @@ export const COLLECTIONS: Collection[] = [
       'Predicación expositiva y doctrinal para el crecimiento de la fe y la comunidad.',
     coverImage: {
       src: '/img/biblioteca-sermones.avif',
-      alt: 'Colección de sermones — Sanctuary',
+      alt: 'Colección de sermones — 1ra Iglesia Apostolica de Tonalá',
     },
     resources: [
       {
@@ -109,7 +109,7 @@ export const COLLECTIONS: Collection[] = [
       'Lecturas profundas sobre doctrina, espiritualidad y fe aplicada a la vida contemporánea.',
     coverImage: {
       src: '/img/biblioteca-ensayos.avif',
-      alt: 'Ensayos teológicos — Sanctuary',
+      alt: 'Ensayos teológicos — 1ra Iglesia Apostolica de Tonalá',
     },
     resources: [
       {
@@ -183,7 +183,7 @@ export const COLLECTIONS: Collection[] = [
       'Material de estudio y formación para grupos pequeños, equipos de liderazgo y retiros.',
     coverImage: {
       src: '/img/biblioteca-talleres.avif',
-      alt: 'Talleres prácticos — Sanctuary',
+      alt: 'Talleres prácticos — 1ra Iglesia Apostolica de Tonalá',
     },
     resources: [
       {
@@ -193,7 +193,7 @@ export const COLLECTIONS: Collection[] = [
         category: 'talleres',
         type: 'workshop',
         duration: '6 sesiones',
-        author: 'Equipo Sanctuary',
+        author: 'Equipo 1ra Iglesia Apostolica de Tonalá',
         coverImage: {
           src: '/img/biblioteca-talleres.avif',
           alt: 'Discipulado en comunidad',
@@ -208,7 +208,7 @@ export const COLLECTIONS: Collection[] = [
         category: 'talleres',
         type: 'workshop',
         duration: '4 sesiones',
-        author: 'Equipo Sanctuary',
+        author: 'Equipo 1ra Iglesia Apostolica de Tonalá',
         coverImage: {
           src: '/img/biblioteca-talleres.avif',
           alt: 'Oración contemplativa',
@@ -223,7 +223,7 @@ export const COLLECTIONS: Collection[] = [
         category: 'talleres',
         type: 'workshop',
         duration: '8 sesiones',
-        author: 'Equipo Sanctuary',
+        author: 'Equipo 1ra Iglesia Apostolica de Tonalá',
         coverImage: {
           src: '/img/biblioteca-talleres.avif',
           alt: 'Hermenéutica bíblica',
@@ -238,7 +238,7 @@ export const COLLECTIONS: Collection[] = [
         category: 'talleres',
         type: 'workshop',
         duration: '5 sesiones',
-        author: 'Equipo Sanctuary',
+        author: 'Equipo 1ra Iglesia Apostolica de Tonalá',
         coverImage: {
           src: '/img/biblioteca-talleres.avif',
           alt: 'Liturgia y adoración',

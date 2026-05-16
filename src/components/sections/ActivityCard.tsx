@@ -51,7 +51,7 @@ function FeaturedCard({
         <div className="flex items-center gap-6">
           <div className="flex flex-col">
             <span className="text-xs uppercase tracking-widest text-on-surface-variant mb-1">
-              Horario
+              Horari
             </span>
             <span className="text-xl font-semibold tracking-tight text-on-surface">
               {time}

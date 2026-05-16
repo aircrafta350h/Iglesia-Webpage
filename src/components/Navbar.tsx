@@ -34,9 +34,9 @@ export default function Navbar() {
         <a
           href="/"
           className="text-xl font-bold tracking-tighter text-[#1c1c1c]"
-          aria-label="Sanctuary — Inicio"
+          aria-label="1ra Iglesia Apostolica de Tonalá — Inicio"
         >
-          Sanctuary
+          1ra Iglesia Apostolica de Tonalá
         </a>
 
         {/* Desktop links */}

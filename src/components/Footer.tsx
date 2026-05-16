@@ -10,7 +10,7 @@ export default function Footer() {
     <footer className="w-full py-20 bg-[#dee1e5] border-t border-[#dee1e5]">
       <div className="flex flex-col md:flex-row justify-between items-center px-6 md:px-12 max-w-screen-2xl mx-auto font-body text-sm tracking-wide gap-8 md:gap-0">
         <p className="text-[#4a4a4a]">
-          &copy; 2024 Sanctuary. A space for contemplation.
+          &copy; 2024 1ra Iglesia Apostolica de Tonalá. A space for contemplation.
         </p>
 
         <nav aria-label="Pie de página">

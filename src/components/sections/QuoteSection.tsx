@@ -23,7 +23,7 @@ export default function QuoteSection() {
         <div className="w-20 h-0.5 bg-primary mx-auto mb-8" aria-hidden="true" />
 
         <p className="font-label text-sm uppercase tracking-[0.2em] text-on-surface-variant font-bold">
-          Dirección de Pastoral &bull; Sanctuary
+          Dirección de Pastoral &bull; 1ra Iglesia Apostolica de Tonalá
         </p>
       </div>
     </section>

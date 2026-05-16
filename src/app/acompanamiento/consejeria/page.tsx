@@ -5,7 +5,7 @@ import Footer from '@/components/Footer';
 import PageBuilder from '@/components/layout/PageBuilder';
 
 export const metadata: Metadata = {
-  title: 'Consejería Pastoral | Sanctuary',
+  title: 'Consejería Pastoral | 1ra Iglesia Apostolica de Tonalá',
   description:
     'Un espacio sagrado para el acompañamiento emocional, el crecimiento espiritual y la sanidad interior.',
 };
